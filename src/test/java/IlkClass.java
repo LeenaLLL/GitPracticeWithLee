@@ -5,8 +5,9 @@ public class IlkClass {
         System.out.println("ilk deneme");
 
 
+        System.out.println("yeni branchte ilk çalışma");
 
-
+        System.out.println("yeni branchte ikinci çalışma");
 
     }
 
